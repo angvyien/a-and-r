@@ -76,5 +76,5 @@ function displayanji() {
     };
 }
 
-// Display the ac.gif initially
-displayac();
+// Display the anji.gif initially
+displayanji();
